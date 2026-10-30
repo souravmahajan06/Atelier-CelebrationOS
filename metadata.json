@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Plan — Dynamic Event & Celebration Architect",
+  "description": "Intelligent celebration and event planning dashboard featuring structured onboarding, dynamic budget trade-off analysis, dependency-aware adaptive timelines, and deep guest personalization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
